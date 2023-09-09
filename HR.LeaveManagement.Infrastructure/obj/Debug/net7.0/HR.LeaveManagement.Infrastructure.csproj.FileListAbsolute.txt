@@ -1,0 +1,5 @@
+C:\Users\eliek\OneDrive\Desktop\Dotnet Core Projects\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\eliek\OneDrive\Desktop\Dotnet Core Projects\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliek\OneDrive\Desktop\Dotnet Core Projects\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\eliek\OneDrive\Desktop\Dotnet Core Projects\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\eliek\OneDrive\Desktop\Dotnet Core Projects\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
